@@ -1,0 +1,12 @@
+{
+  "name"            : "com.core.dotween",
+  "displayName"     : "com.core.dotween",
+  "version"         : "0.1.0",
+  "unity"           : "6000.3",
+  "unityRelease"    : "7f1",
+  "description"     : "DoTween package.",
+  "author"          : {
+	"name" : "Talha Cagatay ISIK",
+	"email": "isiktalhacagatay@gmail.com"
+  }
+}
